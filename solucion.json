@@ -1,0 +1,28 @@
+{
+  "nombre": "Fantastic Game",
+  "version": 3.1,
+  "fechaLanzamiento": "2016-05-23T00:00:00.000Z",
+  "demo": "true",
+  "programador": {
+    "id": 12345,
+    "nombre": "Ambrosio",
+    "tel": {
+      "fijo": "987-654-321",
+      "movil": "654-321-000"
+    },
+    "email": [
+      "ambrosio@yahoo.info",
+      "ambrosio@gmail.org"
+    ],
+    "ayudantes": [
+      {
+        "nombre": "Jaime Ruiz",
+        "email": "jriuz@outlook.biz"
+      },
+      {
+        "nombre": "Justin Viver",
+        "email": "justin@vete.ya"
+      }
+    ]
+  }
+}
